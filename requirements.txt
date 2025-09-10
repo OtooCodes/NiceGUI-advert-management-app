@@ -1,0 +1,5 @@
+nicegui
+pymongo
+dnspython
+python-dotenv
+fastapi[standard]
